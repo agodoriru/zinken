@@ -1,3 +1,7 @@
 hogehoge
 aaa
+<<<<<<< HEAD
+=======
+aaa
+>>>>>>> test1
 bbb
